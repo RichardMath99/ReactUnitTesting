@@ -1,22 +1,22 @@
-# :white_check_mark: Unit Test React Aplication
+# :white_check_mark: Teste Unitário em Aplicação React
 
-Simple project to training react unit tests
+Projeto simples para treinar testes unitários em React.
 
-## Getting Started
+## Início
 
 ### `git clone https://github.com/RichardMath99/ReactUnitTesting`
 
-To clone this repository in your computer.
+Para clonar este repositório em seu computador.
 
 ### `npm install`
 
-To install all the necessary dependencies to run the project.
+Para instalar todas as dependências necessárias para executar o projeto.
 
 ### `npm run test`
 
-Launches the test runner in the interactive watch mode.
+Inicia o executor de testes no modo interativo de observação.
 
-## Libs and Frameworks
+## Bibliotecas e Frameworks
 
 - React
 - Jest
